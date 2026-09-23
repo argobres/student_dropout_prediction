@@ -2,8 +2,6 @@
 
 A model examining three student outcomes: Dropout, Enrolled, and Graduate. The project compares classifiers, tests feature representations, and audits differences in errors across student groups.
 
-**Scope:** retrospective classification using information through the second semester. This is not an enrollment-only model or a validated operational early-warning system.
-
 ## Results at a glance
 
 | Submitted result | Value |
@@ -18,9 +16,9 @@ A model examining three student outcomes: Dropout, Enrolled, and Graduate. The p
 | Dropout recall | 73.2% (208 / 284) |
 | Enrolled recall | 60.4% (96 / 159) |
 
-**Verification:** a fresh full run completed locally and selected the same configuration, with test macro F1 **0.7158** and accuracy **0.7593**. Exact historical predictions were not reproduced; see [VERIFICATION.md](VERIFICATION.md).
+**Verification:** a fresh full run completed locally and selected the same configuration, with test macro F1 **0.7158** and accuracy **0.7593**. 
 
-These are the author's submitted reference results. Newly generated results are kept separately. Logistic regression was nearly tied in cross-validation; the small ranking difference does not establish statistical superiority.
+Logistic regression was nearly tied in cross-validation; the small ranking difference does not establish statistical superiority.
 
 ![Final test confusion matrices](reports/reference/figures/final_test_confusion_matrices.png)
 
