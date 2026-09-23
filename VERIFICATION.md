@@ -26,4 +26,4 @@ Used dropout_prediction_report-2.ipynb because its code matches the other suppli
 
 The full dataset contains three second-semester without-evaluation ratios above one; one occurs in the training partition. These values are retained for investigation.
 
-Three local commits were created with the author's supplied Git identity. GitHub publication is pending CLI authorization. Local testing does not claim that GitHub Actions has run.
+The repository was published publicly at https://github.com/argobres/student_dropout_prediction with the author's supplied Git identity. See the repository Actions tab for current automated test results; the local checks recorded above are separate from CI.
