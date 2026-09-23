@@ -1,0 +1,55 @@
+Feature,Target,Count,Mean,Median,Q1,Q3
+Previous qualification (grade),Dropout,1421,131.1140745953554,133.1,122.0,137.0
+Previous qualification (grade),Graduate,2209,134.08270710728837,133.1,126.0,141.0
+Previous qualification (grade),Enrolled,794,131.20843828715365,130.0,123.0,139.0
+Admission grade,Dropout,1421,124.96136523574948,123.6,115.0,133.0
+Admission grade,Graduate,2209,128.79443186962428,127.4,119.7,136.4
+Admission grade,Enrolled,794,125.53425692695214,124.1,117.0,133.275
+Age at enrollment,Dropout,1421,26.06896551724138,23.0,19.0,30.0
+Age at enrollment,Graduate,2209,21.78361249434133,19.0,18.0,21.0
+Age at enrollment,Enrolled,794,22.369017632241814,20.0,19.0,23.0
+Curricular units 1st sem (credited),Dropout,1421,0.609429978888107,0.0,0.0,0.0
+Curricular units 1st sem (credited),Graduate,2209,0.8474422815753735,0.0,0.0,0.0
+Curricular units 1st sem (credited),Enrolled,794,0.5075566750629723,0.0,0.0,0.0
+Curricular units 1st sem (enrolled),Dropout,1421,5.821252638986629,6.0,5.0,6.0
+Curricular units 1st sem (enrolled),Graduate,2209,6.669533725667723,6.0,6.0,7.0
+Curricular units 1st sem (enrolled),Enrolled,794,5.964735516372796,6.0,5.0,6.0
+Curricular units 1st sem (evaluations),Dropout,1421,7.751583391977481,8.0,5.0,11.0
+Curricular units 1st sem (evaluations),Graduate,2209,8.27659574468085,8.0,6.0,9.0
+Curricular units 1st sem (evaluations),Enrolled,794,9.341309823677582,9.0,7.0,11.0
+Curricular units 1st sem (approved),Dropout,1421,2.5517241379310347,2.0,0.0,4.0
+Curricular units 1st sem (approved),Graduate,2209,6.232231779085559,6.0,5.0,7.0
+Curricular units 1st sem (approved),Enrolled,794,4.318639798488665,5.0,3.0,6.0
+Curricular units 1st sem (grade),Dropout,1421,7.256655527717995,10.928571428571429,0.0,12.2
+Curricular units 1st sem (grade),Graduate,2209,12.643654533680996,13.0,12.12142857142857,13.857142857142858
+Curricular units 1st sem (grade),Enrolled,794,11.125257277951548,12.0,11.0,12.857142857142858
+Curricular units 1st sem (without evaluations),Dropout,1421,0.1921182266009852,0.0,0.0,0.0
+Curricular units 1st sem (without evaluations),Graduate,2209,0.0882752376641014,0.0,0.0,0.0
+Curricular units 1st sem (without evaluations),Enrolled,794,0.17758186397984888,0.0,0.0,0.0
+Curricular units 2nd sem (credited),Dropout,1421,0.44968332160450386,0.0,0.0,0.0
+Curricular units 2nd sem (credited),Graduate,2209,0.6668175645088276,0.0,0.0,0.0
+Curricular units 2nd sem (credited),Enrolled,794,0.3589420654911839,0.0,0.0,0.0
+Curricular units 2nd sem (enrolled),Dropout,1421,5.7804363124560165,6.0,5.0,6.0
+Curricular units 2nd sem (enrolled),Graduate,2209,6.628338614757809,6.0,6.0,8.0
+Curricular units 2nd sem (enrolled),Enrolled,794,5.938287153652393,6.0,5.0,6.0
+Curricular units 2nd sem (evaluations),Dropout,1421,7.173821252638986,7.0,5.0,10.0
+Curricular units 2nd sem (evaluations),Graduate,2209,8.142145767315528,8.0,6.0,9.0
+Curricular units 2nd sem (evaluations),Enrolled,794,9.435768261964736,9.0,8.0,11.0
+Curricular units 2nd sem (approved),Dropout,1421,1.94018296973962,0.0,0.0,4.0
+Curricular units 2nd sem (approved),Graduate,2209,6.177003168854686,6.0,5.0,7.0
+Curricular units 2nd sem (approved),Enrolled,794,4.057934508816121,4.0,3.0,5.0
+Curricular units 2nd sem (grade),Dropout,1421,5.899338850062285,0.0,0.0,11.833333333333334
+Curricular units 2nd sem (grade),Graduate,2209,12.69727584021306,13.0,12.166666666666666,14.0
+Curricular units 2nd sem (grade),Enrolled,794,11.117364332910302,12.0,11.0,12.818181818181818
+Curricular units 2nd sem (without evaluations),Dropout,1421,0.2378606615059817,0.0,0.0,0.0
+Curricular units 2nd sem (without evaluations),Graduate,2209,0.08057944771389769,0.0,0.0,0.0
+Curricular units 2nd sem (without evaluations),Enrolled,794,0.18765743073047858,0.0,0.0,0.0
+Unemployment rate,Dropout,1421,11.616396903589022,11.1,9.4,13.9
+Unemployment rate,Graduate,2209,11.639339067451335,11.1,9.4,13.9
+Unemployment rate,Enrolled,794,11.272544080604533,11.1,9.4,12.7
+Inflation rate,Dropout,1421,1.2839549612948629,1.4,0.3,2.6
+Inflation rate,Graduate,2209,1.19791760977818,0.6,0.3,2.6
+Inflation rate,Enrolled,794,1.211712846347607,1.4,0.3,2.6
+GDP,Dropout,1421,-0.15085855031667839,0.32,-1.7,1.74
+GDP,Graduate,2209,0.08183340878225444,0.79,-1.7,1.79
+GDP,Enrolled,794,0.053287153652392956,0.32,-1.7,1.79

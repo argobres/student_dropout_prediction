@@ -1,0 +1,154 @@
+Feature 1,Feature 2,Spearman correlation,Absolute correlation
+Curricular units 1st sem (enrolled),Curricular units 2nd sem (enrolled),0.9618260766381487,0.9618260766381487
+Curricular units 1st sem (credited),Curricular units 2nd sem (credited),0.9142616043247871,0.9142616043247871
+Curricular units 1st sem (approved),Curricular units 2nd sem (approved),0.8916792101746502,0.8916792101746502
+Curricular units 1st sem (grade),Curricular units 2nd sem (grade),0.7623560353227239,0.7623560353227239
+Curricular units 1st sem (enrolled),Curricular units 1st sem (approved),0.7065549064039629,0.7065549064039629
+Curricular units 1st sem (approved),Curricular units 2nd sem (enrolled),0.6994285992551942,0.6994285992551942
+Curricular units 2nd sem (approved),Curricular units 2nd sem (grade),0.6937099439234496,0.6937099439234496
+Curricular units 1st sem (evaluations),Curricular units 2nd sem (evaluations),0.6936033939481563,0.6936033939481563
+Curricular units 2nd sem (enrolled),Curricular units 2nd sem (approved),0.6741693826137588,0.6741693826137588
+Curricular units 1st sem (approved),Curricular units 2nd sem (grade),0.6628254662582345,0.6628254662582345
+Curricular units 1st sem (enrolled),Curricular units 2nd sem (approved),0.6531982316851481,0.6531982316851481
+Curricular units 1st sem (approved),Curricular units 1st sem (grade),0.639785334777196,0.639785334777196
+Curricular units 1st sem (grade),Curricular units 2nd sem (approved),0.628588247533263,0.628588247533263
+Previous qualification (grade),Admission grade,0.584624292388316,0.584624292388316
+Curricular units 1st sem (enrolled),Curricular units 2nd sem (credited),0.4401186224689489,0.4401186224689489
+Curricular units 2nd sem (enrolled),Curricular units 2nd sem (evaluations),0.43989072681683816,0.43989072681683816
+Curricular units 1st sem (enrolled),Curricular units 2nd sem (evaluations),0.4312848459958387,0.4312848459958387
+Curricular units 1st sem (credited),Curricular units 1st sem (enrolled),0.423096304783119,0.423096304783119
+Curricular units 1st sem (enrolled),Curricular units 1st sem (evaluations),0.4202415677320243,0.4202415677320243
+Curricular units 2nd sem (credited),Curricular units 2nd sem (enrolled),0.41355955190211713,0.41355955190211713
+Curricular units 1st sem (evaluations),Curricular units 2nd sem (enrolled),0.3857198102125873,0.3857198102125873
+Curricular units 1st sem (without evaluations),Curricular units 2nd sem (without evaluations),0.3835516683153977,0.3835516683153977
+Curricular units 1st sem (credited),Curricular units 2nd sem (enrolled),0.37610443548556965,0.37610443548556965
+Curricular units 1st sem (evaluations),Curricular units 2nd sem (credited),0.36934187186069506,0.36934187186069506
+Curricular units 1st sem (grade),Curricular units 2nd sem (enrolled),0.36800410091538355,0.36800410091538355
+Curricular units 1st sem (approved),Curricular units 2nd sem (credited),0.36694074511778474,0.36694074511778474
+Curricular units 1st sem (credited),Curricular units 1st sem (evaluations),0.366472459109556,0.366472459109556
+Curricular units 2nd sem (enrolled),Curricular units 2nd sem (grade),0.36440097732594484,0.36440097732594484
+Curricular units 1st sem (approved),Curricular units 2nd sem (evaluations),0.3643367712157441,0.3643367712157441
+Curricular units 1st sem (enrolled),Curricular units 1st sem (grade),0.36319818070253607,0.36319818070253607
+Curricular units 1st sem (credited),Curricular units 1st sem (approved),0.361512099194408,0.361512099194408
+Curricular units 1st sem (enrolled),Curricular units 2nd sem (grade),0.35146468602650865,0.35146468602650865
+Curricular units 2nd sem (credited),Curricular units 2nd sem (evaluations),0.34231008290653187,0.34231008290653187
+Curricular units 1st sem (credited),Curricular units 2nd sem (evaluations),0.3305360467331499,0.3305360467331499
+Curricular units 2nd sem (credited),Curricular units 2nd sem (approved),0.31916792109178943,0.31916792109178943
+Curricular units 2nd sem (evaluations),Curricular units 2nd sem (approved),0.3026389929188802,0.3026389929188802
+Age at enrollment,Curricular units 2nd sem (credited),0.30059463417982046,0.30059463417982046
+Age at enrollment,Curricular units 1st sem (credited),0.2988538727489568,0.2988538727489568
+Curricular units 1st sem (credited),Curricular units 2nd sem (approved),0.2887958434533534,0.2887958434533534
+Unemployment rate,GDP,-0.28787488405978934,0.28787488405978934
+Curricular units 1st sem (evaluations),Curricular units 1st sem (approved),0.2620628255055291,0.2620628255055291
+Curricular units 1st sem (evaluations),Curricular units 2nd sem (approved),0.2515938364812047,0.2515938364812047
+Age at enrollment,Curricular units 2nd sem (grade),-0.21346966691465835,0.21346966691465835
+Age at enrollment,Curricular units 1st sem (grade),-0.20991607371376805,0.20991607371376805
+Admission grade,Curricular units 1st sem (grade),0.20884644040243153,0.20884644040243153
+Curricular units 1st sem (evaluations),Curricular units 1st sem (without evaluations),0.20205577863461885,0.20205577863461885
+Admission grade,Curricular units 2nd sem (grade),0.1885102994476675,0.1885102994476675
+Age at enrollment,Curricular units 2nd sem (approved),-0.1879839858953468,0.1879839858953468
+Curricular units 1st sem (without evaluations),GDP,-0.18358206015500905,0.18358206015500905
+Previous qualification (grade),Curricular units 1st sem (grade),0.18215989943538938,0.18215989943538938
+Curricular units 1st sem (grade),Curricular units 2nd sem (evaluations),0.18192446507125873,0.18192446507125873
+Curricular units 2nd sem (evaluations),Curricular units 2nd sem (grade),0.17170813355538964,0.17170813355538964
+Age at enrollment,Curricular units 1st sem (evaluations),0.17056494747581166,0.17056494747581166
+Age at enrollment,Curricular units 1st sem (approved),-0.1657804338108037,0.1657804338108037
+Curricular units 2nd sem (evaluations),Curricular units 2nd sem (without evaluations),0.15945363639385166,0.15945363639385166
+Previous qualification (grade),Curricular units 2nd sem (grade),0.15298558218601663,0.15298558218601663
+Curricular units 1st sem (evaluations),Curricular units 2nd sem (without evaluations),0.15275735536814433,0.15275735536814433
+Previous qualification (grade),Age at enrollment,-0.14471315189992304,0.14471315189992304
+Curricular units 2nd sem (enrolled),Unemployment rate,0.13886092119077317,0.13886092119077317
+Curricular units 1st sem (evaluations),Curricular units 1st sem (grade),0.11194466347441641,0.11194466347441641
+Curricular units 2nd sem (without evaluations),GDP,-0.11058065967005387,0.11058065967005387
+Curricular units 1st sem (enrolled),Unemployment rate,0.10833550069354173,0.10833550069354173
+Curricular units 2nd sem (grade),GDP,0.1053095164822676,0.1053095164822676
+Curricular units 2nd sem (credited),Curricular units 2nd sem (grade),0.10337937599398898,0.10337937599398898
+Admission grade,Age at enrollment,-0.10175728905459384,0.10175728905459384
+Inflation rate,GDP,-0.10175491249675186,0.10175491249675186
+Curricular units 1st sem (credited),Curricular units 1st sem (grade),0.10075815494771917,0.10075815494771917
+Admission grade,Curricular units 1st sem (approved),0.10008570566212792,0.10008570566212792
+Curricular units 1st sem (credited),Curricular units 1st sem (without evaluations),0.10002425919847877,0.10002425919847877
+Admission grade,Curricular units 2nd sem (approved),0.09904929210266722,0.09904929210266722
+Curricular units 1st sem (grade),Curricular units 2nd sem (credited),0.09686049498056301,0.09686049498056301
+Curricular units 1st sem (evaluations),GDP,-0.09670041515103632,0.09670041515103632
+Curricular units 1st sem (without evaluations),Curricular units 2nd sem (evaluations),0.09625209259832429,0.09625209259832429
+Admission grade,Curricular units 1st sem (evaluations),-0.09490126267065871,0.09490126267065871
+Age at enrollment,Curricular units 2nd sem (without evaluations),0.0944936960053899,0.0944936960053899
+Curricular units 1st sem (credited),Curricular units 2nd sem (grade),0.09347431669453142,0.09347431669453142
+Previous qualification (grade),Curricular units 1st sem (approved),0.092705545686698,0.092705545686698
+Curricular units 1st sem (grade),GDP,0.09184323642394623,0.09184323642394623
+Curricular units 1st sem (evaluations),Curricular units 2nd sem (grade),0.09017702744172149,0.09017702744172149
+Age at enrollment,Curricular units 2nd sem (evaluations),0.0827095410989638,0.0827095410989638
+Curricular units 2nd sem (credited),Curricular units 2nd sem (without evaluations),0.08237172719883575,0.08237172719883575
+Previous qualification (grade),Curricular units 2nd sem (approved),0.0816664699132274,0.0816664699132274
+Admission grade,Curricular units 2nd sem (credited),0.07528289046955926,0.07528289046955926
+Admission grade,Curricular units 1st sem (credited),0.07515485471195131,0.07515485471195131
+Curricular units 1st sem (approved),Unemployment rate,0.07428831187772258,0.07428831187772258
+Curricular units 1st sem (approved),Curricular units 2nd sem (without evaluations),-0.07344384782187921,0.07344384782187921
+Previous qualification (grade),GDP,-0.07247340741848794,0.07247340741848794
+Curricular units 2nd sem (approved),Unemployment rate,0.07028894692580452,0.07028894692580452
+Previous qualification (grade),Curricular units 1st sem (evaluations),-0.06939752153250768,0.06939752153250768
+Curricular units 1st sem (approved),Curricular units 1st sem (without evaluations),-0.06889695309641272,0.06889695309641272
+Curricular units 1st sem (without evaluations),Inflation rate,-0.06786564944958791,0.06786564944958791
+Curricular units 1st sem (evaluations),Unemployment rate,0.06703674115235711,0.06703674115235711
+Curricular units 1st sem (without evaluations),Unemployment rate,-0.0668778140688769,0.0668778140688769
+Curricular units 1st sem (credited),Curricular units 2nd sem (without evaluations),0.06394001951242013,0.06394001951242013
+Curricular units 2nd sem (approved),Curricular units 2nd sem (without evaluations),-0.06350099517575108,0.06350099517575108
+Admission grade,Curricular units 2nd sem (evaluations),-0.061483345302432255,0.061483345302432255
+Previous qualification (grade),Curricular units 2nd sem (evaluations),-0.06129772646033716,0.06129772646033716
+Curricular units 2nd sem (evaluations),Unemployment rate,0.061296861876222186,0.061296861876222186
+Age at enrollment,Curricular units 1st sem (without evaluations),0.060933894390890773,0.060933894390890773
+Curricular units 1st sem (approved),GDP,0.059291899855473895,0.059291899855473895
+Curricular units 1st sem (without evaluations),Curricular units 2nd sem (credited),0.05869481694811713,0.05869481694811713
+Age at enrollment,GDP,-0.056524222468257584,0.056524222468257584
+Curricular units 1st sem (without evaluations),Curricular units 2nd sem (approved),-0.05459836473551654,0.05459836473551654
+Unemployment rate,Inflation rate,-0.05453944968868994,0.05453944968868994
+Curricular units 2nd sem (without evaluations),Unemployment rate,-0.053072191974711656,0.053072191974711656
+Curricular units 2nd sem (grade),Curricular units 2nd sem (without evaluations),-0.05159058322901121,0.05159058322901121
+Previous qualification (grade),Unemployment rate,0.04813738491867283,0.04813738491867283
+Curricular units 2nd sem (approved),GDP,0.04810505807514237,0.04810505807514237
+Curricular units 1st sem (grade),Curricular units 2nd sem (without evaluations),-0.04666918682738859,0.04666918682738859
+Curricular units 1st sem (grade),Unemployment rate,0.04500440381885736,0.04500440381885736
+Curricular units 2nd sem (grade),Inflation rate,-0.04348342745764424,0.04348342745764424
+Curricular units 2nd sem (grade),Unemployment rate,0.04248720976935079,0.04248720976935079
+Curricular units 1st sem (without evaluations),Curricular units 2nd sem (grade),-0.04076447948064241,0.04076447948064241
+Admission grade,GDP,-0.04020669283476537,0.04020669283476537
+Curricular units 1st sem (evaluations),Inflation rate,-0.03972103918169996,0.03972103918169996
+Curricular units 1st sem (grade),Inflation rate,-0.037431040273354595,0.037431040273354595
+Previous qualification (grade),Curricular units 2nd sem (enrolled),0.03603661535492079,0.03603661535492079
+Previous qualification (grade),Curricular units 1st sem (enrolled),0.03511450465253973,0.03511450465253973
+Curricular units 1st sem (without evaluations),Curricular units 2nd sem (enrolled),-0.03237154602816031,0.03237154602816031
+Age at enrollment,Curricular units 2nd sem (enrolled),-0.031458293684385935,0.031458293684385935
+Curricular units 2nd sem (enrolled),Curricular units 2nd sem (without evaluations),-0.02742981240699477,0.02742981240699477
+Curricular units 2nd sem (without evaluations),Inflation rate,-0.02728207813838719,0.02728207813838719
+Admission grade,Unemployment rate,0.02667245813860385,0.02667245813860385
+Curricular units 1st sem (credited),Unemployment rate,0.024183997298328517,0.024183997298328517
+Curricular units 2nd sem (evaluations),Inflation rate,-0.023950700364346343,0.023950700364346343
+Curricular units 2nd sem (credited),GDP,0.023758275200439497,0.023758275200439497
+Admission grade,Curricular units 2nd sem (without evaluations),-0.023679370479676803,0.023679370479676803
+Curricular units 1st sem (credited),GDP,0.021784127077811202,0.021784127077811202
+Curricular units 1st sem (enrolled),Curricular units 2nd sem (without evaluations),-0.02060039732015466,0.02060039732015466
+Previous qualification (grade),Inflation rate,0.01919144180843192,0.01919144180843192
+Curricular units 1st sem (enrolled),Curricular units 1st sem (without evaluations),-0.018756910394367752,0.018756910394367752
+Curricular units 2nd sem (enrolled),GDP,0.018671431428834383,0.018671431428834383
+Age at enrollment,Unemployment rate,0.018599640951552903,0.018599640951552903
+Admission grade,Inflation rate,-0.018256671603435453,0.018256671603435453
+Age at enrollment,Inflation rate,0.01818127923994442,0.01818127923994442
+Curricular units 1st sem (enrolled),GDP,0.017964618508841554,0.017964618508841554
+Curricular units 1st sem (grade),Curricular units 1st sem (without evaluations),-0.01693009390976386,0.01693009390976386
+Curricular units 1st sem (enrolled),Inflation rate,0.016872824749519264,0.016872824749519264
+Previous qualification (grade),Curricular units 2nd sem (without evaluations),-0.01629508486632209,0.01629508486632209
+Curricular units 2nd sem (approved),Inflation rate,-0.014904991794095613,0.014904991794095613
+Curricular units 2nd sem (credited),Unemployment rate,0.012190236013783138,0.012190236013783138
+Previous qualification (grade),Curricular units 1st sem (credited),0.009901046333808507,0.009901046333808507
+Curricular units 2nd sem (enrolled),Inflation rate,0.008952399824100014,0.008952399824100014
+Admission grade,Curricular units 1st sem (enrolled),-0.005681467377366738,0.005681467377366738
+Curricular units 2nd sem (evaluations),GDP,-0.004171846068455517,0.004171846068455517
+Previous qualification (grade),Curricular units 1st sem (without evaluations),0.003187455801708642,0.003187455801708642
+Curricular units 1st sem (approved),Inflation rate,-0.002489608080401293,0.002489608080401293
+Curricular units 1st sem (credited),Inflation rate,-0.0018228731830934473,0.0018228731830934473
+Previous qualification (grade),Curricular units 2nd sem (credited),-0.0013683862628106034,0.0013683862628106034
+Admission grade,Curricular units 2nd sem (enrolled),0.0011619662816702457,0.0011619662816702457
+Age at enrollment,Curricular units 1st sem (enrolled),0.0008043591374666159,0.0008043591374666159
+Curricular units 2nd sem (credited),Inflation rate,-0.0005300532305817389,0.0005300532305817389
+Admission grade,Curricular units 1st sem (without evaluations),-0.00010311124199564078,0.00010311124199564078

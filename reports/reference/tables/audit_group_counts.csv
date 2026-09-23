@@ -1,0 +1,21 @@
+Attribute,Group,Count
+Gender,0,571
+Gender,1,314
+Age group,Under 20,376
+Age group,20–24,274
+Age group,25–34,154
+Age group,35+,81
+Scholarship holder,0,652
+Scholarship holder,1,233
+Debtor,0,767
+Debtor,1,118
+Tuition fees up to date,1,775
+Tuition fees up to date,0,110
+Gender × Age,Gender 0 / Under 20,271
+Gender × Age,Gender 0 / 20–24,168
+Gender × Age,Gender 1 / 20–24,106
+Gender × Age,Gender 1 / Under 20,105
+Gender × Age,Gender 0 / 25–34,87
+Gender × Age,Gender 1 / 25–34,67
+Gender × Age,Gender 0 / 35+,45
+Gender × Age,Gender 1 / 35+,36

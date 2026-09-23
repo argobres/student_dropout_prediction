@@ -1,0 +1,19 @@
+ID,Feature
+N1,Previous qualification (grade)
+N2,Admission grade
+N3,Age at enrollment
+N4,Curricular units 1st sem (credited)
+N5,Curricular units 1st sem (enrolled)
+N6,Curricular units 1st sem (evaluations)
+N7,Curricular units 1st sem (approved)
+N8,Curricular units 1st sem (grade)
+N9,Curricular units 1st sem (without evaluations)
+N10,Curricular units 2nd sem (credited)
+N11,Curricular units 2nd sem (enrolled)
+N12,Curricular units 2nd sem (evaluations)
+N13,Curricular units 2nd sem (approved)
+N14,Curricular units 2nd sem (grade)
+N15,Curricular units 2nd sem (without evaluations)
+N16,Unemployment rate
+N17,Inflation rate
+N18,GDP

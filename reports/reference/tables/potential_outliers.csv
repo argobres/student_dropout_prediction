@@ -1,0 +1,19 @@
+,Lower bound,Upper bound,Potential outlier count,Potential outlier (%),Zero IQR
+Curricular units 2nd sem (grade),6.874999999999999,17.208333333333336,877,19.82368896925859,False
+Curricular units 1st sem (grade),7.3999999999999995,17.0,726,16.410488245931283,False
+Curricular units 1st sem (credited),0.0,0.0,577,13.04249547920434,True
+Curricular units 2nd sem (credited),0.0,0.0,530,11.980108499095842,True
+Age at enrollment,10.0,34.0,441,9.968354430379748,False
+Curricular units 1st sem (enrolled),2.0,10.0,424,9.584086799276673,False
+Curricular units 2nd sem (enrolled),2.0,10.0,369,8.340867992766727,False
+Curricular units 1st sem (without evaluations),0.0,0.0,294,6.645569620253164,True
+Curricular units 2nd sem (without evaluations),0.0,0.0,282,6.374321880650995,True
+Curricular units 1st sem (approved),-1.5,10.5,180,4.06871609403255,False
+Previous qualification (grade),102.5,162.5,179,4.046112115732369,False
+Curricular units 1st sem (evaluations),0.0,16.0,158,3.571428571428571,False
+Curricular units 2nd sem (evaluations),0.0,16.0,109,2.4638336347197107,False
+Admission grade,92.55,160.15000000000003,86,1.9439421338155516,False
+Curricular units 2nd sem (approved),-4.0,12.0,44,0.9945750452079566,False
+Unemployment rate,2.6500000000000004,20.65,0,0.0,False
+Inflation rate,-3.1500000000000004,6.050000000000001,0,0.0,False
+GDP,-6.9350000000000005,7.025,0,0.0,False

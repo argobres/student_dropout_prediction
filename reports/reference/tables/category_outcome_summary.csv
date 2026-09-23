@@ -1,0 +1,245 @@
+Feature,Category,Count,Dropout (%),Graduate (%),Enrolled (%),Rare group
+Marital status,1,3919,30.2,51.4,18.4,False
+Marital status,2,379,47.2,39.1,13.7,False
+Marital status,3,4,25.0,25.0,50.0,True
+Marital status,4,91,46.2,36.3,17.6,False
+Marital status,5,25,44.0,44.0,12.0,True
+Marital status,6,6,66.7,16.7,16.7,True
+Application mode,1,1708,20.2,62.2,17.6,False
+Application mode,10,10,30.0,70.0,0.0,True
+Application mode,15,30,16.7,50.0,33.3,False
+Application mode,16,38,13.2,65.8,21.1,False
+Application mode,17,872,29.4,52.4,18.2,False
+Application mode,18,124,36.3,50.8,12.9,False
+Application mode,2,3,66.7,33.3,0.0,True
+Application mode,26,1,100.0,0.0,0.0,True
+Application mode,27,1,100.0,0.0,0.0,True
+Application mode,39,785,55.4,29.2,15.4,False
+Application mode,42,77,44.2,41.6,14.3,False
+Application mode,43,312,36.9,39.1,24.0,False
+Application mode,44,213,29.6,44.1,26.3,False
+Application mode,5,16,12.5,37.5,50.0,True
+Application mode,51,59,33.9,44.1,22.0,False
+Application mode,53,35,11.4,60.0,28.6,False
+Application mode,57,1,0.0,100.0,0.0,True
+Application mode,7,139,61.2,33.8,5.0,False
+Application order,0,1,0.0,100.0,0.0,True
+Application order,1,3026,34.8,46.5,18.7,False
+Application order,2,547,27.4,55.0,17.6,False
+Application order,3,309,24.6,56.0,19.4,False
+Application order,4,249,23.3,64.3,12.4,False
+Application order,5,154,34.4,49.4,16.2,False
+Application order,6,137,22.6,65.7,11.7,False
+Application order,9,1,0.0,0.0,100.0,True
+Course,171,215,38.1,44.7,17.2,False
+Course,33,12,66.7,8.3,25.0,True
+Course,8014,215,33.0,57.2,9.8,False
+Course,9003,210,41.0,41.4,17.6,False
+Course,9070,226,22.6,58.8,18.6,False
+Course,9085,337,26.7,51.0,22.3,False
+Course,9119,170,54.1,8.2,37.6,False
+Course,9130,141,55.3,29.8,14.9,False
+Course,9147,380,35.3,36.3,28.4,False
+Course,9238,355,18.3,69.9,11.8,False
+Course,9254,252,38.1,45.6,16.3,False
+Course,9500,766,15.4,71.5,13.1,False
+Course,9556,86,38.4,41.9,19.8,False
+Course,9670,268,35.4,46.6,17.9,False
+Course,9773,331,30.5,59.2,10.3,False
+Course,9853,192,44.3,29.7,26.0,False
+Course,9991,268,50.7,29.1,20.1,False
+Daytime/evening attendance	,0,483,42.9,41.6,15.5,False
+Daytime/evening attendance	,1,3941,30.8,51.0,18.2,False
+Previous qualification,1,3717,29.0,52.2,18.8,False
+Previous qualification,10,4,75.0,25.0,0.0,True
+Previous qualification,12,45,57.8,28.9,13.3,False
+Previous qualification,14,1,100.0,0.0,0.0,True
+Previous qualification,15,2,50.0,50.0,0.0,True
+Previous qualification,19,162,64.2,27.8,8.0,False
+Previous qualification,2,23,69.6,26.1,4.3,True
+Previous qualification,3,126,59.5,37.3,3.2,False
+Previous qualification,38,7,42.9,42.9,14.3,True
+Previous qualification,39,219,31.5,43.4,25.1,False
+Previous qualification,4,8,50.0,37.5,12.5,True
+Previous qualification,40,40,35.0,50.0,15.0,False
+Previous qualification,42,36,16.7,61.1,22.2,False
+Previous qualification,43,6,33.3,66.7,0.0,True
+Previous qualification,5,1,100.0,0.0,0.0,True
+Previous qualification,6,16,43.8,50.0,6.2,True
+Previous qualification,9,11,100.0,0.0,0.0,True
+Nacionality,1,4314,32.2,50.0,17.8,False
+Nacionality,100,3,66.7,0.0,33.3,True
+Nacionality,101,2,50.0,50.0,0.0,True
+Nacionality,103,3,33.3,66.7,0.0,True
+Nacionality,105,2,50.0,0.0,50.0,True
+Nacionality,108,1,0.0,0.0,100.0,True
+Nacionality,109,1,100.0,0.0,0.0,True
+Nacionality,11,3,0.0,100.0,0.0,True
+Nacionality,13,1,0.0,100.0,0.0,True
+Nacionality,14,1,0.0,100.0,0.0,True
+Nacionality,17,1,100.0,0.0,0.0,True
+Nacionality,2,2,0.0,100.0,0.0,True
+Nacionality,21,2,50.0,0.0,50.0,True
+Nacionality,22,13,30.8,61.5,7.7,True
+Nacionality,24,5,20.0,80.0,0.0,True
+Nacionality,25,2,0.0,50.0,50.0,True
+Nacionality,26,14,7.1,57.1,35.7,True
+Nacionality,32,1,0.0,0.0,100.0,True
+Nacionality,41,38,36.8,47.4,15.8,False
+Nacionality,6,13,30.8,30.8,38.5,True
+Nacionality,62,2,0.0,50.0,50.0,True
+Mother's qualification,1,1069,28.1,52.9,19.1,False
+Mother's qualification,10,3,66.7,33.3,0.0,True
+Mother's qualification,11,3,66.7,33.3,0.0,True
+Mother's qualification,12,42,52.4,40.5,7.1,False
+Mother's qualification,14,2,50.0,50.0,0.0,True
+Mother's qualification,18,1,100.0,0.0,0.0,True
+Mother's qualification,19,953,28.4,53.1,18.5,False
+Mother's qualification,2,83,24.1,48.2,27.7,False
+Mother's qualification,22,1,0.0,100.0,0.0,True
+Mother's qualification,26,1,0.0,100.0,0.0,True
+Mother's qualification,27,1,100.0,0.0,0.0,True
+Mother's qualification,29,3,33.3,66.7,0.0,True
+Mother's qualification,3,438,31.7,45.2,23.1,False
+Mother's qualification,30,3,33.3,66.7,0.0,True
+Mother's qualification,34,130,73.8,23.8,2.3,False
+Mother's qualification,35,3,66.7,33.3,0.0,True
+Mother's qualification,36,3,66.7,33.3,0.0,True
+Mother's qualification,37,1009,38.0,45.3,16.7,False
+Mother's qualification,38,562,24.9,58.9,16.2,False
+Mother's qualification,39,8,50.0,25.0,25.0,True
+Mother's qualification,4,49,16.3,53.1,30.6,False
+Mother's qualification,40,9,33.3,55.6,11.1,True
+Mother's qualification,41,6,33.3,66.7,0.0,True
+Mother's qualification,42,4,50.0,50.0,0.0,True
+Mother's qualification,43,4,25.0,50.0,25.0,True
+Mother's qualification,44,1,100.0,0.0,0.0,True
+Mother's qualification,5,21,38.1,38.1,23.8,True
+Mother's qualification,6,4,75.0,25.0,0.0,True
+Mother's qualification,9,8,62.5,37.5,0.0,True
+Father's qualification,1,904,31.1,49.9,19.0,False
+Father's qualification,10,2,100.0,0.0,0.0,True
+Father's qualification,11,10,40.0,60.0,0.0,True
+Father's qualification,12,38,36.8,52.6,10.5,False
+Father's qualification,13,1,100.0,0.0,0.0,True
+Father's qualification,14,4,25.0,75.0,0.0,True
+Father's qualification,18,1,100.0,0.0,0.0,True
+Father's qualification,19,968,27.3,53.8,18.9,False
+Father's qualification,2,68,32.4,30.9,36.8,False
+Father's qualification,20,1,100.0,0.0,0.0,True
+Father's qualification,22,4,100.0,0.0,0.0,True
+Father's qualification,25,1,100.0,0.0,0.0,True
+Father's qualification,26,2,50.0,50.0,0.0,True
+Father's qualification,27,1,100.0,0.0,0.0,True
+Father's qualification,29,3,100.0,0.0,0.0,True
+Father's qualification,3,282,31.9,46.1,22.0,False
+Father's qualification,30,4,25.0,50.0,25.0,True
+Father's qualification,31,1,100.0,0.0,0.0,True
+Father's qualification,33,1,100.0,0.0,0.0,True
+Father's qualification,34,112,72.3,25.0,2.7,False
+Father's qualification,35,2,100.0,0.0,0.0,True
+Father's qualification,36,8,62.5,37.5,0.0,True
+Father's qualification,37,1209,35.7,47.8,16.5,False
+Father's qualification,38,702,23.8,58.1,18.1,False
+Father's qualification,39,20,40.0,25.0,35.0,True
+Father's qualification,4,39,35.9,46.2,17.9,False
+Father's qualification,40,5,60.0,40.0,0.0,True
+Father's qualification,41,2,50.0,0.0,50.0,True
+Father's qualification,42,1,0.0,100.0,0.0,True
+Father's qualification,43,2,0.0,100.0,0.0,True
+Father's qualification,44,1,100.0,0.0,0.0,True
+Father's qualification,5,18,55.6,27.8,16.7,True
+Father's qualification,6,2,100.0,0.0,0.0,True
+Father's qualification,9,5,20.0,80.0,0.0,True
+Mother's occupation,0,144,68.8,30.6,0.7,False
+Mother's occupation,1,102,38.2,47.1,14.7,False
+Mother's occupation,10,4,25.0,25.0,50.0,True
+Mother's occupation,122,2,0.0,0.0,100.0,True
+Mother's occupation,123,7,28.6,42.9,28.6,True
+Mother's occupation,125,1,0.0,100.0,0.0,True
+Mother's occupation,131,1,0.0,0.0,100.0,True
+Mother's occupation,132,3,0.0,33.3,66.7,True
+Mother's occupation,134,4,25.0,25.0,50.0,True
+Mother's occupation,141,8,0.0,50.0,50.0,True
+Mother's occupation,143,3,0.0,33.3,66.7,True
+Mother's occupation,144,6,0.0,66.7,33.3,True
+Mother's occupation,151,3,0.0,66.7,33.3,True
+Mother's occupation,152,2,0.0,50.0,50.0,True
+Mother's occupation,153,2,0.0,100.0,0.0,True
+Mother's occupation,171,1,0.0,100.0,0.0,True
+Mother's occupation,173,1,0.0,0.0,100.0,True
+Mother's occupation,175,5,20.0,40.0,40.0,True
+Mother's occupation,191,26,0.0,57.7,42.3,True
+Mother's occupation,192,5,0.0,40.0,60.0,True
+Mother's occupation,193,4,25.0,75.0,0.0,True
+Mother's occupation,194,11,9.1,27.3,63.6,True
+Mother's occupation,2,318,32.1,43.4,24.5,False
+Mother's occupation,3,351,27.1,50.4,22.5,False
+Mother's occupation,4,817,30.4,51.7,18.0,False
+Mother's occupation,5,530,29.4,52.8,17.7,False
+Mother's occupation,6,91,28.6,56.0,15.4,False
+Mother's occupation,7,272,29.4,52.9,17.6,False
+Mother's occupation,8,36,41.7,38.9,19.4,False
+Mother's occupation,9,1577,31.1,52.2,16.7,False
+Mother's occupation,90,70,72.9,27.1,0.0,False
+Mother's occupation,99,17,76.5,11.8,11.8,True
+Father's occupation,0,128,64.1,33.6,2.3,False
+Father's occupation,1,134,35.8,47.0,17.2,False
+Father's occupation,10,266,32.0,47.7,20.3,False
+Father's occupation,101,1,0.0,100.0,0.0,True
+Father's occupation,102,2,0.0,50.0,50.0,True
+Father's occupation,103,4,25.0,50.0,25.0,True
+Father's occupation,112,2,50.0,0.0,50.0,True
+Father's occupation,114,1,0.0,100.0,0.0,True
+Father's occupation,121,1,0.0,0.0,100.0,True
+Father's occupation,122,2,0.0,50.0,50.0,True
+Father's occupation,123,3,0.0,33.3,66.7,True
+Father's occupation,124,1,0.0,100.0,0.0,True
+Father's occupation,131,1,0.0,100.0,0.0,True
+Father's occupation,132,1,0.0,0.0,100.0,True
+Father's occupation,134,1,0.0,0.0,100.0,True
+Father's occupation,135,3,0.0,66.7,33.3,True
+Father's occupation,141,1,0.0,100.0,0.0,True
+Father's occupation,143,1,0.0,100.0,0.0,True
+Father's occupation,144,8,0.0,62.5,37.5,True
+Father's occupation,151,2,0.0,100.0,0.0,True
+Father's occupation,152,3,33.3,0.0,66.7,True
+Father's occupation,153,1,0.0,100.0,0.0,True
+Father's occupation,154,1,0.0,100.0,0.0,True
+Father's occupation,161,1,0.0,0.0,100.0,True
+Father's occupation,163,5,0.0,40.0,60.0,True
+Father's occupation,171,8,0.0,37.5,62.5,True
+Father's occupation,172,2,0.0,50.0,50.0,True
+Father's occupation,174,1,0.0,100.0,0.0,True
+Father's occupation,175,4,0.0,50.0,50.0,True
+Father's occupation,181,3,0.0,66.7,33.3,True
+Father's occupation,182,2,0.0,50.0,50.0,True
+Father's occupation,183,3,0.0,33.3,66.7,True
+Father's occupation,192,6,0.0,66.7,33.3,True
+Father's occupation,193,15,13.3,33.3,53.3,True
+Father's occupation,194,2,50.0,50.0,0.0,True
+Father's occupation,195,1,0.0,100.0,0.0,True
+Father's occupation,2,197,35.5,39.1,25.4,False
+Father's occupation,3,384,29.7,53.9,16.4,False
+Father's occupation,4,386,36.0,44.8,19.2,False
+Father's occupation,5,516,28.7,50.6,20.7,False
+Father's occupation,6,242,28.5,51.7,19.8,False
+Father's occupation,7,666,27.6,55.7,16.7,False
+Father's occupation,8,318,29.6,53.1,17.3,False
+Father's occupation,9,1010,32.0,51.9,16.1,False
+Father's occupation,90,65,70.8,29.2,0.0,False
+Father's occupation,99,19,68.4,21.1,10.5,True
+Displaced,0,1998,37.6,44.3,18.1,False
+Displaced,1,2426,27.6,54.6,17.8,False
+Educational special needs,0,4373,32.1,50.0,17.9,False
+Educational special needs,1,51,33.3,45.1,21.6,False
+Debtor,0,3921,28.3,53.8,18.0,False
+Debtor,1,503,62.0,20.1,17.9,False
+Tuition fees up to date,0,528,86.6,5.5,8.0,False
+Tuition fees up to date,1,3896,24.7,56.0,19.3,False
+Gender,0,2868,25.1,57.9,17.0,False
+Gender,1,1556,45.1,35.2,19.7,False
+Scholarship holder,0,3325,38.7,41.3,20.0,False
+Scholarship holder,1,1099,12.2,76.0,11.8,False
+International,0,4314,32.2,50.0,17.8,False
+International,1,110,29.1,49.1,21.8,False
