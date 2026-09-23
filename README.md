@@ -1,6 +1,6 @@
 # Student Dropout and Academic Success
 
-A reproducible capstone by **Al Christian Gobres** examining three student outcomes: Dropout, Enrolled, and Graduate. The project compares classifiers, tests feature representations, and audits differences in errors across student groups.
+A model examining three student outcomes: Dropout, Enrolled, and Graduate. The project compares classifiers, tests feature representations, and audits differences in errors across student groups.
 
 **Scope:** retrospective classification using information through the second semester. This is not an enrollment-only model or a validated operational early-warning system.
 
